@@ -1,0 +1,30 @@
+{
+	"switch_file.header_extensions":
+	[
+		"hpp",
+		"hxx",
+		"hh",
+		"h",
+		"ipp",
+		"inl"
+	],
+	"switch_file.impl_extensions":
+	[
+		"cpp",
+		"cxx",
+		"cc",
+		"c",
+		"m",
+		"mm"
+	],
+	"switch_file.paths":
+	[
+		".",
+		"../Public",
+		"../Private",
+		"../Classes",
+		"../../Public",
+		"../../Private",
+		"../../Classes"
+	],
+}
